@@ -1,0 +1,20 @@
+*{
+    background-color: #0cf5c2;
+}
+table,th,td,tr{
+   padding: 20px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 80px;
+   border: 2px solid black;
+   border-collapse: collapse;
+   
+}
+.dp{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+.details{
+    font-weight: bold;
+}
