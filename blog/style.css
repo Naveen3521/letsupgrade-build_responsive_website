@@ -1,0 +1,47 @@
+body{
+    background-color: #FB9300;
+}
+.navbar{
+    text-align: center;
+}
+#blog_head{
+    text-align: center;
+}
+.btn{
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Style Script', cursive;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: #343F56;
+}
+a:hover{
+    background-color: #F54748;
+    color: black;
+}
+
+p{ 
+    width:900px;
+    display: inline-block;
+    line-height: 2;
+    background-color: #F5E6CA;
+    font-family: 'Stylish', sans-serif;
+    border-radius: 10px;
+    padding: 20px;
+}
+img{
+    margin-left: 200px;
+}
+.Footer{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+
+
